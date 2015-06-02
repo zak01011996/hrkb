@@ -1,0 +1,10 @@
+production:
+    dialect: postgres
+    datasource: dbname=hrkb user=hrkb password=hrkb host=10.10.10.23 sslmode=disable
+    dir: migrations/
+    table: migrations
+development:
+    dialect: postgres
+    datasource: dbname=hrkb_test user=hrkb password=hrkb host=10.10.10.23 sslmode=disable
+    dir: migrations/
+    table: migrations

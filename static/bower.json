@@ -1,0 +1,13 @@
+{
+   "name": "Human Resource Managment",
+   "version": "0.0.1",
+   "dependencies": {
+	"bootstrap": "~3.3.2",
+	"bootstrap-material-design": "~0.2.1",	
+	"snackbarjs" : "~1.0.0",
+	"dropzone" : "~4.0.0",
+	"jquery-ui": "~1.11.3",
+        "jquery.cookie": "~1.4.1",
+        "lodash": "~3.5.0"
+   }
+}

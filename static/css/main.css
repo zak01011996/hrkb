@@ -1,0 +1,129 @@
+#snackbar-container {
+    position: fixed;
+    left: 20px;
+    bottom: 0;
+    z-index: 99999;
+}
+.align-top > * {
+    border-top-width: 0px !important;
+}
+.b__remove.active,
+.b__restore.active {
+    opacity: .5
+}
+.comment {
+    margin-bottom: 2em;
+}
+.comment .name {
+    font-weight: bold
+}
+.comment .date {
+    font-style: italic;
+    color: #666;
+}
+.comment .edit {
+    cursor: pointer;
+}
+.comment .remove.active {
+    opacity: .5;
+}
+.comment .text {
+    margin-top: 10px;
+}
+.comment form {
+    display: none;
+    margin-top: 10px;
+}
+.comment form .form-group.has-error {
+    margin-bottom: 0;
+}
+.page_title {
+    text-align: center;
+}
+.cand_panel {
+    margin: 15px 15px 0 15px;
+}
+.cand_row {
+    margin-top: 15px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.page {
+    padding-bottom: 30px;
+}
+.s__item .name {
+    display: block;
+    float: left;
+    font-weight: bold;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.s__item .dep {
+    color: #666;
+    font-weight: bold;
+    display: block;
+    float: right;
+    margin-left: 20px;
+}
+#ui-id-1.ui-autocomplete {
+    border-top: none;
+    min-width: 400px;
+}
+#ui-id-1.ui-autocomplete .ui-menu-item {
+    padding-left: 1em;
+}
+.file {
+    text-align: center;
+    padding: 10px;
+    float: left;
+}
+.file span {
+    display: block;
+    font-size: 50px;
+}
+.table-candidates p {
+    line-height: 0.5;
+    font-size: 15px;
+}
+.candidate-info {
+    display: block;
+    padding-top: 20px;
+}
+.jstabs li.active {
+    background: rgba(255, 255, 255, .4);
+}
+#langs-previews {
+    display: none;
+}
+.l__filename {
+    font-style: italic;
+    margin-left: 5px;
+}
+.icon-preview {
+    font-size: 20px;
+    color: #009587;
+}
+.togglebutton {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.required {
+    color: #f44336;
+}
+#create_issue_btn {
+    position: fixed;
+    right: 3%;
+    bottom: 3%;
+}
+.text-rating {
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+}

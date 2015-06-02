@@ -1,0 +1,101 @@
+# folders should end slash /
+appname = hr
+httpport = 8080
+runmode = dev
+sessionon = true
+enablexsrf = true
+xsrfkey = 61oETzKXQAGaYdkL5gEmGeJJFuYh7EQnp2XdTP1o
+xsrfexpire = 3600
+upload_dir = static/upload/
+tmp_dir = static/tmp/
+img_types = image/jpeg,image/jpg,image/png,image/gif
+static_dir = static/ 
+session_provider = memory
+
+[dev]
+driver=postgres
+pghost=
+pgdb=
+pguser=
+pgpass=
+
+[prod]
+driver=postgres
+pghost=
+pgdb=
+pguser=
+pgpass=
+
+[test]
+driver=postgres
+pghost=
+pgdb=
+pguser=
+pgpass=
+
+[log]
+minutes=30
+ext=log
+dist=file
+folder=logs/
+
+[lang]
+folder=langs/
+
+[aws]
+accesskey=
+secretkey=
+bucket=
+bucketdir=
+contimeout=
+writetimeout=
+reqtimeout=
+
+[bckp]
+dir=
+interval=
+rotlimit=
+
+[mail]
+#Mandrill Api Key
+apikey = 
+#Mail Notify service channel buffer  size
+limit = 100 
+#Notify service channel buffer size
+buff_limit = 1000
+#Retry n times if message sending fails
+retry = 3
+#Mandrill Api message sending n(msgs)/hour 
+hour_limit = 250
+#If internet connection ep
+wait_time = 2
+#If remote Api Responds very slow abort it in n second
+timeout = 3
+#from mail of Sending mails
+from_mail = 
+#name of Sending mails
+from_name = hrkb 
+#subject of Sending mails
+from_subject = notification 
+#Try to resend failed mail per N/minute if they exist
+failed_rate_per_min = 30 
+
+[telegram]
+# !!! TELEGRAM SERVICES NEED CONFIGURED TELEGRAM-CLI 
+# 1.Download and compile telegram cli on your machine https://github.com/vysheng/tg
+# 2.Authentificate manually
+# 3.Put your public-key to /etc/telegram-cli/server.pub
+group_id = 17006774
+
+[comments]
+cand_date_format=02.01.2006 15:04
+trash_date_format=02.01.2006 15:04
+
+[gitlab]
+url=
+project=
+
+[bot]
+buff_limit =
+url =
+rate_per_msec =

@@ -1,0 +1,5 @@
+  <div>
+
+     {{.LayoutContent}}
+
+  </div> <!-- /container -->

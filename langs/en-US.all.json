@@ -1,0 +1,719 @@
+[
+	{
+		"id":"cand",
+		"translation":{
+			"one":"Candidate",
+			"other":"Candidates"
+		}
+	},
+	{
+		"id":"contact",
+		"translation":{
+			"one":"Contact type",
+			"other":"Contacts"
+		}
+	},
+	{
+		"id":"dep",
+		"translation":{
+			"one":"Department",
+			"other":"Departments"
+		}
+	},
+	{
+		"id":"rat",
+		"translation":{
+			"one":"Rating",
+			"other":"Ratings"
+		}
+	},
+	{
+		"id":"crit",
+		"translation":{
+			"one":"Criteria",
+			"other":"Criterias"
+		}
+	},
+	{
+		"id":"nocand",
+		"translation":{
+			"one":"Candidate not found",
+			"other":"No candidates"
+		}
+	},
+	{
+		"id":"info",
+		"translation":"Info"
+	},
+	{
+		"id":"desc",
+		"translation":"Description"
+	},
+	{
+		"id":"name",
+		"translation":"Name"
+	},
+	{
+		"id":"last_name",
+		"translation":"Last name"
+	},
+	{
+		"id":"phone",
+		"translation":"Phone"
+	},
+	{
+		"id":"email",
+		"translation":"E-mail"
+	},
+	{
+		"id":"add_cand",
+		"translation":"Add candididate"
+	},
+	{
+		"id":"dep_filter",
+		"translation":"Department filter"
+	},
+	{
+		"id":"dep_filter_all",
+		"translation":"---ALL DEPARTMENTS---"
+	},
+	{
+		"id":"view",
+		"translation":"View"
+	},
+	{
+		"id":"edit",
+		"translation":"Edit"
+	},
+	{
+		"id":"del",
+		"translation":"Delete"
+	},
+	{
+		"id":"new",
+		"translation":"Create"
+	},
+	{
+		"id":"save",
+		"translation":"Save"
+	},
+	{
+		"id":"cancel",
+		"translation":"Cancel"
+	},
+	{
+		"id":"page_first",
+		"translation":"First"
+	},
+	{
+		"id":"page_last",
+		"translation":"Last"
+	},
+	{
+		"id":"cand_card",
+		"translation":"Candidate card"
+	},
+	{
+		"id":"fath_name",
+		"translation":"Father's name"
+	},
+	{
+		"id":"adr",
+		"translation":"Address"
+	},
+	{
+		"id":"mar",
+		"translation":"Married status"
+	},	
+	{
+		"id":"married",
+		"translation":"Married"
+	},
+	{
+		"id":"not_married",
+		"translation":"Not married"
+	},
+	{
+		"id":"cost",
+		"translation":"Sallary"
+	},
+	{
+		"id":"val",
+		"translation":"Value"
+	},
+	{
+		"id":"add",
+		"translation":"Add"
+	},
+	{
+		"id":"files",
+		"translation":"Attached files"
+	},
+	{
+		"id":"upload",
+		"translation":"Upload files"
+	},
+	{
+		"id":"rat_g",
+		"translation":"Grouped"
+	},
+	{
+		"id":"rat_d",
+		"translation":"Detailed"
+	},
+	{
+		"id":"rat_my",
+		"translation":"My ratings"
+	},
+	{
+		"id":"rat_set",
+		"translation":"Set rating"
+	},
+	{
+		"id":"comments",
+		"translation":"Comments"
+	},
+	{
+		"id":"add_comment",
+		"translation":"Add comment"
+	},
+	{
+		"id":"author",
+		"translation":"Author"
+	},
+	{
+		"id":"set_rat",
+		"translation":"Set rating"
+	},
+	{
+		"id":"crit_choose",
+		"translation":"Choose criteria"
+	},
+	{
+		"id":"mark",
+		"translation":"Your mark"
+	},
+	{
+		"id":"internal_error",
+		"translation":"Internal server error"
+	},
+        {
+		"id":"db_error",
+		"translation":"Database error"
+	},
+        {
+		"id":"marshal_error",
+		"translation":"Marshal error"
+	},
+
+	{
+		"id":"add_cand",
+		"translation":"Add candidate"
+	},
+	{
+		"id":"img",
+		"translation":"Image"
+	},
+	{
+		"id":"choose_img",
+		"translation":"Choose image"
+	},
+	{
+		"id":"notes",
+		"translation":"Notes"
+	},
+	{
+		"id":"currency",
+		"translation":"Currency"
+	},
+	{
+		"id":"update",
+		"translation":"Update"
+	},
+	{
+		"id":"edit_cand",
+		"translation":"Edit candidate"
+	},
+	{
+		"id":"invalid_param",
+		"translation":"Invalid {{.Param}} param"
+	},
+	{
+		"id":"cand_created",
+		"translation":"Created candidate {{.Name}} {{.Lname}}"
+	},
+	{
+		"id":"cand_deleted",
+		"translation":"Candidate successfuly deleted"
+	},
+	{
+		"id":"resize_bad",
+		"translation":"File resize error"
+	},
+	{
+		"id":"filetype_bad",
+		"translation":"Invalid image file type"
+	},{
+		"id":"user",
+		"translation":{
+			"one":"User",
+			"other":"Users"
+		}
+	},
+	{
+		"id":"trash",
+		"translation":"Trash"
+	},
+	{
+		"id":"logout",
+		"translation":"Logout"
+	},
+	{
+		"id":"welcome",
+		"translation":"Welcome to HRKB"
+	},
+	{
+		"id":"search",
+		"translation":"Search"
+	},
+	{
+		"id":"id",
+		"translation":"ID"
+	},
+	{
+		"id":"login",
+		"translation":"Login"
+	},
+	{
+		"id":"role",
+		"translation":"Role"
+	},
+	{
+		"id":"add_user",
+		"translation":"Add user"
+	},
+	{
+		"id":"new_user",
+		"translation":"New user"
+	},
+	{
+		"id":"user_edit",
+		"translation":"Edit user"
+	},
+	{
+		"id":"password",
+		"translation":"Password"
+	},
+	{
+		"id":"passc",
+		"translation":"Password confirm"
+	},
+	{
+		"id":"user_not_found",
+		"translation":"User not found"
+	},
+	{
+		"id":"user_created",
+		"translation":"Created new user"
+	},
+	{
+		"id":"user_updated",
+		"translation":"User {{.Login}} succesfully updated"
+	},
+	{
+		"id":"user_removed",
+		"translation":"User {{.Login}} succesfully removed"
+	},
+	{
+		"id":"title",
+		"translation":"Title"
+	},
+	{
+		"id":"add_dep",
+		"translation":"Add department"
+	},
+	{
+		"id":"edit_dep",
+		"translation":"Edit department"
+	},
+	{
+		"id":"dep_not_found",
+		"translation":"Edit department"
+	},
+	{
+		"id":"dep_created",
+		"translation":"Created new department"
+	},
+	{
+		"id":"dep_updated",
+		"translation":"Department {{.Title}} succesfully updated"
+	},
+	{
+		"id":"dep_removed",
+		"translation":"Department {{.Title}} succesfully removed"
+	},
+	{
+		"id":"restore",
+		"translation":"Restore"
+	},
+	{
+		"id":"prof",
+		"translation":"Profile"
+	},
+	{
+		"id":"changepass",
+		"translation":"Change password"
+	},
+	{
+		"id":"account_saved",
+		"translation":"Account settings successfuly updated"
+	},
+	{
+		"id":"no_rec",
+		"translation":"Record not found"
+	},
+	{
+		"id":"restored",
+		"translation":"Restored!"
+	},
+	{
+		"id":"add_crit",
+		"translation":"Add criteria"
+	},
+	{
+		"id":"no_crit_in_dep",
+		"translation":"No criterias in this department"
+	},
+	{
+		"id":"edit_crit",
+		"translation":"Edit criteria"
+	},
+	{
+		"id":"new_crit",
+		"translation":"New criteria"
+	},
+	{
+		"id":"back",
+		"translation":"Back to list"
+	},
+	{
+		"id":"crit_created",
+		"translation":"Created new criteria"
+	},
+	{
+		"id":"crit_updated",
+		"translation":"User {{.Title}} succesfully updated"
+	},
+	{
+		"id":"user_removed",
+		"translation":"User {{.Login}} succesfully removed"
+	},
+	{
+		"id":"crit_not_found",
+		"translation":"Criteria not found"
+	},
+	{
+		"id":"auth_is_off",
+		"translation":"Authorization must be turn on ;)"
+	},
+	{
+		"id":"rat_already",
+		"translation":"You've already voted for this criteria"
+	},
+	{
+		"id":"save_error",
+		"translation":"Error while saving data"
+	},
+	{
+		"id":"rat_added",
+		"translation":"Rating succesfully added"
+	},
+	{
+		"id":"validation_error",
+		"translation":"Validation error"
+	},
+	{
+		"id":"rat_deleted",
+		"translation":"Rating successfuly deleted"
+	},
+	{
+		"id":"rat_not_found",
+		"translation":"Rating not found"
+	},
+	{
+		"id":"parse_error",
+		"translation":"Parse error"
+	},
+	{
+		"id":"contact_not_found",
+		"translation":"Contact not found"
+	},
+	{
+		"id":"contact_created",
+		"translation":"Contact successfuly created"
+	},
+	{
+		"id":"file_not_found",
+		"translation":"Cannot find file"
+	},
+	{
+		"id":"file_adenied",
+		"translation":"You are not a file owner"
+	},
+	{
+		"id":"file_del_error",
+		"translation":"Cannot remove file"
+	},
+	{
+		"id":"file_del_ok",
+		"translation":"File successfully removed"
+	},
+	{
+		"id":"login_error",
+		"translation":"Incorect login or password"
+	},
+	{
+		"id":"file_invalid_type",
+		"translation":"Invalid file type"
+	},
+	{
+		"id":"site_enter",
+		"translation":"Log in"
+	},
+	{
+		"id":"fill",
+		"translation":"Fill the form"
+	},
+	{
+		"id":"file",
+		"translation":{
+			"one":"File",
+			"other":"Files"
+		}
+	},
+	{
+		"id":"type",
+		"translation":"Type"
+	},
+	{
+		"id":"valid_Required",
+		"translation":"Can not be empty"
+	},
+	{
+		"id":"valid_Min",
+		"translation":"Minimum is %d"
+	},
+	{
+		"id":"valid_Max",
+		"translation":"Maximum is %d"
+	},
+	{
+		"id":"valid_Range",
+		"translation":"Range is %d to %d"
+	},
+	{
+		"id":"valid_MinSize",
+		"translation":"Minimum size is %d"
+	},
+	{
+		"id":"valid_MaxSize",
+		"translation":"Maximum size is %d"
+	},
+	{
+		"id":"valid_Length",
+		"translation":"Required length is %d"
+	},
+	{
+		"id":"valid_Alpha",
+		"translation":"Must be valid alpha characters"
+	},
+	{
+		"id":"valid_Numeric",
+		"translation":"Must be valid numeric characters"
+	},
+	{
+		"id":"valid_AlphaNumeric",
+		"translation":"Must be valid alpha or numeric characters"
+	},
+	{
+		"id":"valid_Match",
+		"translation":"Must match %s"
+	},
+	{
+		"id":"valid_NoMatch",
+		"translation":"Must not match %s"
+	},
+	{
+		"id":"valid_AlphaDash",
+		"translation":"Must be valid alpha or numeric or dash(-_) characters"
+	},
+	{
+		"id":"valid_Email",
+		"translation":"Must be a valid email address"
+	},
+	{
+		"id":"valid_IP",
+		"translation":"Must be a valid ip address"
+	},
+	{
+		"id":"valid_Base64",
+		"translation":"Must be valid base64 characters"
+	},
+	{
+		"id":"valid_Mobile",
+		"translation":"Must be valid mobile number"
+	},
+	{
+		"id":"valid_Tel",
+		"translation":"Must be valid telephone number"
+	},
+	{
+		"id":"valid_Phone",
+		"translation":"Must be valid telephone or mobile phone number"
+	},
+	{
+		"id":"valid_ZipCode",
+		"translation":"Must be valid zipcode"
+	},
+	{
+		"id":"valid_depex",
+		"translation":"Department exists"
+	},
+	{
+		"id":"valid_passmatch",
+		"translation":"Passwords do not match"
+	},
+	{
+		"id":"valid_hash",
+		"translation":"Hash error"
+	},
+	{
+		"id":"valid_role",
+		"translation":"Unknown role"
+	},
+	{
+		"id":"valid_userex",
+		"translation":"User exists"
+	},
+	{
+		"id":"lang",
+		"translation":{
+			"one":"Language",
+			"other":"Languages"
+		}
+	},
+	{
+		"id":"lang_not_found",
+		"translation":"Language not found"
+	},
+	{
+		"id":"lang_removed",
+		"translation":"Language successfuly deleted"
+	},
+	{
+		"id":"lang_setdefault",
+		"translation":"Make as default"
+	},
+	{
+		"id":"lang_upload",
+		"translation":"Upload file"
+	},
+	{
+		"id":"lang_download",
+		"translation":"Download file"
+	},
+	{
+		"id":"lang_badfile",
+		"translation":"Bad file format"
+	},
+	{
+		"id":"lang_fileok",
+		"translation":"Translations successfully updated"
+	},
+	{
+		"id":"lang_add",
+		"translation":"Add new language"
+	},
+	{
+		"id":"lang_chosefile",
+		"translation":"Choose file"
+	},
+	{
+		"id":"lang_undefinedcode",
+		"translation":"Unknown language"
+	},
+	{
+		"id":"lang_nofile",
+		"translation":"No files sended"
+        },
+        {
+		"id":"mail_cand_added",
+		"translation":"New Candidate Added "
+	},
+	{
+		"id":"mail_cand_watch",
+		"translation":"Watch him"
+	},
+        {
+		"id":"issue_header",
+		"translation":"Report new issue"
+	},
+        {
+		"id":"issue_title",
+		"translation":"Title"
+	},
+        {
+		"id":"issue",
+		"translation": {
+                    "one":"Issue",
+                    "other": "Issues"
+                }
+	},
+        {
+		"id":"issue_description",
+		"translation":"Description"
+	},
+        {
+		"id":"issue_labels",
+		"translation":"Labels"
+	},
+        {
+		"id":"issue_submit",
+		"translation":"Report"
+	},
+        {
+		"id":"gitlab_token_required",
+		"translation":"To create issues you must fill auth token, ask about it administrator"
+	},
+        {
+		"id":"gitlab_auth_failed",
+		"translation":"Authentication by token failed. Please make sure that you have put correct auth token from GitLab account."
+        },
+        {
+		"id":"issue_create_success",
+		"translation":"Issue successfully created"
+        },
+	{
+		"id":"comment_not_found",
+		"translation":"Comment not found"
+	},
+	{
+		"id":"restrict_access",
+		"translation":"Restricted access"
+	},
+	{
+		"id":"date",
+		"translation":"Date"
+	},
+	{
+		"id":"text",
+		"translation":"Text"
+	},
+	{
+		"id":"log",
+		"translation":{
+			"one":"Log",
+			"other":"Logs"
+		}
+	}
+]

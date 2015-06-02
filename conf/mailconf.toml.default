@@ -1,0 +1,16 @@
+# API user data
+ smtp_user = "ahidoyatov@gmail.com"
+ smtp_pass = "33tLuyB7tCkqWtChYtw9Sw" 
+# Buffer Limit for listening mail service
+ limit = 1000 
+# Buffer Limit for listening sending service 
+ buff_limit = 1000
+# Retry times if sending fails
+ retry = 3
+# Mail Service Api hour limit
+ hour_limit = 250
+# Wait time if internet connection fails
+ wait_time = 2
+# If sending takes much time after timeout stop it
+ timeout = 3
+
